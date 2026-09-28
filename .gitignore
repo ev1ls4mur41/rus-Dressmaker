@@ -1,0 +1,10 @@
+# Compiled and build artifacts
+__pycache__/
+*.pyc
+
+# Logs and temp files
+translate.log
+.tmp_test/
+
+# Cache files
+.translation_cache.json
